@@ -12,7 +12,7 @@ A Modern, Feature-Rich Study Management and Academic Task Manager Web Applicatio
 
 ## 📖 About
 
-Study Sync is a comprehensive, single-page web application designed to help students manage their academic work items efficiently. With a clean, modern interface and powerful features like analytics, Excel export, and motivational quotes, it's the perfect tool for staying organized throughout your academic journey.
+Study Sync Pro is a comprehensive, single-page web application designed to help students manage their academic work items efficiently. With a clean, modern interface and powerful features like analytics, Excel export, and motivational quotes, it's the perfect tool for staying organized throughout your academic journey.
 
 ## ✨ Highlights
 
@@ -376,4 +376,3 @@ Study Sync Pro - Stay Organized, Stay Ahead
 # Happy Studying! 📚✨
 
 </div>
-
