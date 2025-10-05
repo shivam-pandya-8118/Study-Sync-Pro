@@ -1,4 +1,4 @@
-# Study Sync ⇒ [View Live](https://shivam-pandya-8118.github.io/Study-Sync-Pro)
+# Study Sync Pro ⇒ [View Live](https://shivam-pandya-8118.github.io/Study-Sync-Pro)
 > By Shivam Pandya
 
 <div align="center">
@@ -376,3 +376,4 @@ Study Sync Pro - Stay Organized, Stay Ahead
 # Happy Studying! 📚✨
 
 </div>
+
