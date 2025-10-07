@@ -1652,25 +1652,25 @@ function setupEventListeners() {
 
   // Keyboard Shortcuts
   document.addEventListener("keydown", (e) => {
-    if (e.shiftKey) {
+    if (e.altKey) {
       switch (e.key) {
-        case "A":
+        case "1":
           e.preventDefault();
           switchTab("dashboard");
           break;
-        case "B":
+        case "2":
           e.preventDefault();
           switchTab("analytics");
           break;
-        case "C":
+        case "3":
           e.preventDefault();
           switchTab("add-work");
           break;
-        case "D":
+        case "4":
           e.preventDefault();
           switchTab("subjects");
           break;
-        case "E":
+        case "5":
           e.preventDefault();
           switchTab("work-types");
           break;
