@@ -103,11 +103,11 @@ Smart Insights:
 
 ## ⌨️ Keyboard Shortcuts
 
-- Shift + A — Dashboard
-- Shift + B — Analytics
-- Shift + C — Add Work
-- Shift + D — Subjects
-- Shift + E — Work Types
+- Alt + 1 — Dashboard
+- Alt + 2 — Analytics
+- Alt + 3 — Add Work
+- Alt + 4 — Subjects
+- Alt + 5 — Work Types
 
 ### 🎥 Live Demo
 
