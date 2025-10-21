@@ -367,12 +367,9 @@ Study Sync Pro - Stay Organized, Stay Ahead
 - 🗑️ Forceful delete functions
 - 💾 Enhanced localStorage persistence
 
-### Version 2.0 (Current)
-
-- Faces some error while fetching data.
-
 <div align="center">
 
 # Happy Studying! 📚✨
 
 </div>
+
